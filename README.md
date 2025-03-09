@@ -1,0 +1,1 @@
+This is a web application that allows users to enter a city name and retrieve real-time weather details, including temperature, humidity, and wind speed, using an external weather API. Designed a user-friendly interface for seamless interaction and ensured efficient API integration for accurate data retrieval.
